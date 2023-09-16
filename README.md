@@ -1,4 +1,4 @@
-## Main Project Goal
+# Main Project Goal
 
 The primary objectives of this project can be summarized as follows:
 
