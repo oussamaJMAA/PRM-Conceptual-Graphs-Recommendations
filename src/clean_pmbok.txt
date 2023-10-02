@@ -669,31 +669,31 @@ characteristics may include but are not limited to:
  
 
 
-n Urgency. The period of time within which a response to the risk is to be implemented in order to be effective. 
+Urgency. The period of time within which a response to the risk is to be implemented in order to be effective. 
 A short period indicates high urgency.
 
-n Proximity. The period of time before the risk might have an impact on one or more project objectives. A short 
+Proximity. The period of time before the risk might have an impact on one or more project objectives. A short 
 period indicates high proximity.
 
-n Dormancy. The period of time that may elapse after a risk has occurred before its impact is discovered. A 
+Dormancy. The period of time that may elapse after a risk has occurred before its impact is discovered. A 
 short period indicates low dormancy.
 
-n Manageability. The ease with which the risk owner (or owning organization) can manage the occurrence or 
+Manageability. The ease with which the risk owner (or owning organization) can manage the occurrence or 
 impact of a risk. Where management is easy, manageability is high.
 
-n Controllability. The degree to which the risk owner (or owning organization) is able to control the risk’s 
+Controllability. The degree to which the risk owner (or owning organization) is able to control the risk’s 
 outcome. Where the outcome can be easily controlled, controllability is high.
 
-n Detectability. The ease with which the results of the risk occurring, or being about to occur, can be detected 
+Detectability. The ease with which the results of the risk occurring, or being about to occur, can be detected 
 and recognized. Where the risk occurrence can be detected easily, detectability is high.
 
-n Connectivity. The extent to which the risk is related to other individual project risks. Where a risk is connected 
+Connectivity. The extent to which the risk is related to other individual project risks. Where a risk is connected 
 to many other risks, connectivity is high.
 
-n Strategic impact. The potential for the risk to have a positive or negative effect on the organization’s strategic 
+Strategic impact. The potential for the risk to have a positive or negative effect on the organization’s strategic 
 goals. Where the risk has a major effect on strategic goals, strategic impact is high.
 
-n Propinquity. The degree to which a risk is perceived to matter by one or more stakeholders. Where a risk is 
+Propinquity. The degree to which a risk is perceived to matter by one or more stakeholders. Where a risk is 
 perceived as very signiﬁcant, propinquity is high.
 The consideration of some of these characteristics can provide a more robust prioritization of risks than is possible 
 by only assessing probability and impact.
