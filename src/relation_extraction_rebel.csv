@@ -1,0 +1,1603 @@
+,Subject,Relation,Object
+0,project experience risk,subclass of,risk management
+1,source bias,facet of,risk
+2,avoid,instance of,avoid
+3,portfolio,subclass of,project
+4,exposure draft,facet of,risk management
+5,earlier project,followed by,later phase project
+6,nancy perosio,occupation,cpm
+7,source bias,facet of,risk analysis
+8,project management,part of,project management
+9,technology upgrade,facet of,technology
+11,management organization,field of work,project management
+12,number level detail,facet of,risk
+13,reputation,facet of,performance
+14,qualitative risk analysis,subclass of,risk analysis
+15,set heading,facet of,risk breakdown structure
+17,swot analysis,subclass of,analysis
+18,form brainstorming,facet of,risk management
+19,duration estimate,subclass of,estimate
+20,objective schedule,facet of,cost quality
+21,subcontractor,subclass of,supplier
+22,proprietary,subclass of,tailoring
+23,msc,subclass of,phd
+24,risk,part of,two dimension
+25,qualitative,subclass of,quantitative
+26,risk response,subclass of,deliverable
+27,tactical level,follows,strategic level
+28,agreed-upon risk response plan,facet of,risk response process
+29,generic risk breakdown structure 84d,instance of,figure
+30,information cause effect risk,subclass of,risk description
+31,impact uncertain,subclass of,threat
+32,trade-off,facet of,objective
+33,integrated project management plan,use,project implementation
+34,project risk,subclass of,risk report
+35,life cycle,has part,project
+36,stakeholder register,use,risk response
+37,risk identification,subclass of,brainstorming
+38,response plan,subclass of,plan
+39,guideline,use,risk management
+40,combined effect,facet of,risk
+41,risk report,facet of,risk exposure
+42,cost performance enhancement,opposite of,cost performance shortfall
+43,responsibility,facet of,stakeholder
+44,risk process,uses,assumption
+45,emergent secondary risk,subclass of,risk
+46,technical performance analysis,subclass of,data analysis
+47,input value,part of,example
+48,project risk,subclass of,manage risk
+49,qualitative technique,opposite of,quantitative technique
+50,negative effect,facet of,project objective arising occurrence threat
+51,strength weakness,subclass of,strength
+52,risk management,subclass of,responsibility
+53,qualitative risk analysis,part of,risk management
+54,project contingency fund,facet of,project
+55,risk-related,facet of,risk
+56,integrated analysis,part of,risk management
+57,resource calendar,subclass of,calendar
+59,decisioneering,uses,oracle
+60,expert iteration,subclass of,consensus
+61,project risk management,facet of,project success
+62,significant change,facet of,operating environment
+63,contingency plan,subclass of,plan
+64,strategic decision making,instance of,technique
+65,schedule forecast,facet of,schedule
+66,risk exposure exceeds desired level,subclass of,risk
+67,john j,spouse,valerie claire brasse
+68,norman epstein,occupation,mba
+69,reserve analysis,subclass of,analysis
+70,project risk management,studies,project
+71,path based,subclass of,project scheduling
+72,conduct,subclass of,risk management
+73,qualitative risk analysis ass priority,studied by,qualitative risk analysis
+74,consistent pmbok guide third edition,main subject,project risk management
+75,procurement management plan,facet of,contract
+76,force field diagram,subclass of,diagram
+77,effectiveness transfer sharing,subclass of,action
+78,capture benefit,has part,opportunity
+79,contingency planning,subclass of,plan
+81,non-event risk,subclass of,risk
+83,cause risk effect,subclass of,separate cause risk
+84,responsibility,instance of,role
+85,enterprise risk management,subclass of,risk management
+86,proximity information,part of,standard
+87,expert judgment,subclass of,knowledge training
+88,risk response appropriate significance risk,facet of,risk
+89,variance plan,use,earn value management system
+90,reward value,facet of,reward
+91,ccpm,use,priority management
+92,strategic decision-making,facet of,project governance
+93,situation,has part,event
+94,escalated level,subclass of,threat
+95,updated regularly,subclass of,updated
+96,101d template,instance of,technique
+97,well storage mechanism,use,risk management
+98,kristine persun,instrument,crispin
+99,project resilience,facet of,resilience
+100,85d figure d9,use,swot analysis
+101,owner risk,subclass of,risk
+102,condition,subclass of,identification
+103,technical approach,subclass of,decision-making
+104,association project management,subclass of,project management
+105,plan,has part,approval
+106,risk attitude,instance of,factor
+107,risk,has part,response expected effect
+108,nan wolfslayer,subclass of,astd
+109,risk response,facet of,project management
+110,iteratively,facet of,risk management
+111,risk based information,subclass of,assessment
+112,archive obsolete information,facet of,time
+113,defect storage capacity,subclass of,technical performance measure
+114,funding,facet of,funding
+115,probability distribution,has part,probability event
+116,quantifiable measure,subclass of,objective
+117,project scheduling,facet of,project
+118,external project,has effect,impact
+119,organization management,has part,stakeholder
+120,alternatives analysis,subclass of,data analysis
+121,risk monitoring,facet of,change management
+122,risk management plan,facet of,need project
+123,expert judgment,practiced by,expert
+124,high,subclass of,risk
+125,chakraborty,instance of,souray
+126,project risk,subclass of,risk objective
+127,nominated risk owner,subclass of,stakeholder
+128,uncertainty,facet of,probability distribution
+129,risk management plan,has part,risk response planning
+130,lead benefit,subclass of,opportunity captured
+131,timothy,instance of,birus
+132,inherent tolerance uncertainty,subclass of,relative importance
+133,figure 8-1,length,8
+134,joint venture,subclass of,special-purpose company
+135,project impact,facet of,project
+136,project,studied by,design engineering
+137,project risk management,field of work,project risk
+138,organizational strength,opposite of,organizational weakness
+139,interpersonal team skill used process,facet of,interpersonal team skill
+140,project risk management,studied by,project risk management
+141,risk uncertainty,subclass of,uncertainty
+142,20 execution,number of participants,20
+143,common root cause,subclass of,cause effect
+144,kazuhiko okubo,composer,trussell
+145,symptom warning sign,subclass of,secondary risk watch list
+146,risk response planning,subclass of,plan
+147,monte carlo simulation,use,project management
+148,evaluation,facet of,documented
+149,information useful reporting organization,field of work,project
+150,ass probability impact,instance of,risk well factor
+151,cost,has part,time
+152,risk report,use,project risk management
+153,approval,part of,plan
+154,risk management,part of,project management
+155,spending consolidated,subclass of,tracking
+156,project management plan,part of,risk management
+157,trigger condition,subclass of,trigger
+158,perception,facet of,perception
+159,start finish project,facet of,risk management
+160,iteratively,part of,risk management
+161,risk management plan,use,risk management
+162,zimin,instance of,pme
+163,source bias,facet of,key aspect risk approach
+164,probability-impact score,facet of,risk
+165,expert part team,field of this occupation,brainstorming
+166,project team,field of this occupation,project risk management
+167,principle stability persistence,instance of,technique
+168,project management,has part,monitoring control
+169,project,studied by,project risk management
+170,project budget schedule,different from,project objective achievement
+171,risk process,studied by,risk management
+172,utopia,opposite of,disaster
+173,qualitative risk analysis,facet of,project management
+174,continuous improvement,subclass of,learning
+175,easy manageability,facet of,management
+176,risk,has part,stakeholder
+177,historic database,subclass of,database
+178,risk,subclass of,measure
+179,project objective,has effect,project risk
+180,requirements management plan,subclass of,project management plan
+181,product innovation?development,subclass of,breakthrough opportunity
+182,uncertainty,facet of,decision making
+183,baseline,part of,schedule
+184,conditional response simulation,subclass of,simulation
+185,project risk management,subclass of,learning
+186,elapse,subclass of,period time
+187,aligned pmi,instance of,practice standard
+188,Assumption log,main subject,assumption
+189,high probability occurrence,subclass of,threat
+190,project risk management,facet of,project process
+191,msis,has part,pmp
+192,risk response,facet of,risk risk
+193,form,subclass of,form
+194,risk-related plan,subclass of,process
+195,risk,subclass of,communication
+196,sensitivity analysis,subclass of,cost risk analysis
+197,data quality unacceptable,subclass of,data
+198,kenneth,uses,pmi-rmp
+199,risk register,facet of,risk
+200,risk analysis,subclass of,quantitative
+201,threat,opposite of,opportunity
+202,risk,subclass of,related risk
+203,organization culture,facet of,organization
+204,quantitative risk analysis,subclass of,risk report
+205,situation favorable,subclass of,condition
+206,risk threshold tolerance assessment framework,facet of,risk management
+207,match objective,facet of,match
+208,square decision node,part of,decision tree
+209,manageability,subclass of,management
+210,project risk management,facet of,risk
+211,risk management,subclass of,information
+212,subcategory,part of,category
+213,intentional bias,has effect,reporting
+214,unconditional,subclass of,Corresponding action
+215,asset,part of,organizational process
+216,risk response plan,facet of,risk
+217,milestone,part of,project schedule
+218,impact threat,subclass of,risk mitigation
+219,4 representation uncertainty,facet of,uncertainty
+220,secondary risk,subclass of,project risk
+221,general risk management,part of,project management
+222,impact,facet of,objective risk
+223,maintained,subclass of,risk
+224,individual risk,subclass of,project risk
+225,risk tolerance evaluation,facet of,stakeholder area
+226,context,studied by,engineering
+227,risk register,subclass of,information usually stored
+228,time,different from,reliability
+229,open issue updated necessitate update risk register,instance of,issue log
+230,intentional manner,facet of,intentional
+231,institute,field of work,project management
+232,bench-scale model,subclass of,process
+233,project management plan,use,risk management
+234,technical resource complete action,subclass of,action
+235,project plan,facet of,project risk management
+236,capture opportunity,subclass of,contingency reserve
+237,information project,facet of,risk
+238,resource scope,part of,budget
+240,risk probability impact assessment,subclass of,impact assessment
+241,probability,subclass of,risk
+242,impact targeting factor,facet of,probability mitigation
+243,trust,facet of,honesty
+244,finish time,part of,scope
+245,decision making,facet of,authority level
+246,communication,part of,process
+247,resource requirement,part of,section
+248,integrated project management plan,facet of,project
+249,Corresponding risk response information,part of,risk register
+250,simple critical chain network,subclass of,critical chain network
+251,detect recognized,subclass of,recognized
+252,available resource methodology,subclass of,scalable element process
+253,facilitation,subclass of,interpersonal team skills
+254,project objective,has part,project risk uncertain event condition
+255,anthony mampilly,member of,cop bruce
+256,risk response planning,part of,risk management plan
+257,cost-effective address,subclass of,strategy
+258,low priority,subclass of,risk
+259,root cause,studied by,root-cause analysis
+260,project,has effect,outcome
+262,probability,has part,chance
+263,threshold,subclass of,baseline
+264,interpretation risk model,subclass of,risk software
+265,actuary,field of this occupation,civil engineer
+266,project risk,facet of,project
+267,way risk,subclass of,standard structure
+268,project risk,studied by,project risk management
+269,risk management,subclass of,effective practice
+270,project-related criterion,facet of,project
+271,expectation,facet of,stakeholder
+272,example,instance of,example
+273,project,part of,organizational process
+274,procurement management plan,subclass of,plan
+275,risk response process,facet of,risk
+276,cost-related risk,subclass of,time-related
+277,focusing attention,instance of,cause
+278,risk management,subclass of,improvement management
+279,party organization,part of,organization
+280,impact,has effect,impact
+281,risk appetite,instance of,attitude
+282,action,part of,strategy
+283,feed-back,subclass of,loop
+284,effect,has part,cause
+285,risk action owner,opposite of,risk owner
+286,root cause analysis,studies,symptom
+287,risk category,use,risk identification
+288,useful risk,part of,branch
+289,73d technique,use,sensitivity analysis
+290,internally generated risk,subclass of,risk
+291,probability,facet of,probability
+292,individual risk set risk,subclass of,risk response strategy
+293,project risk management,inception,2005
+294,variability risk,subclass of,non-event risk
+295,pmbok,based on,pmbok
+296,representation opportunity,facet of,project objective
+297,quantitative risk analysis,subclass of,model
+298,project risk management,studies,project success
+299,network diagram,subclass of,diagram
+301,risk management,part of,organization
+302,risk management plan,subclass of,policy
+303,project objective,has part,probability
+304,quantitative,subclass of,risk analysis
+305,information,part of,communication
+306,project plan,subclass of,operational document
+307,quantitative risk analysis,use,project management
+308,owner owning organization,facet of,risk
+309,participant responsible analysis,facet of,risk
+310,archived,subclass of,retrieval
+311,common root cause,subclass of,risk
+312,project constraint,has effect,project
+313,payment risk premium,subclass of,risk sharing
+314,impact level,facet of,risk
+315,project,participant,stakeholder
+316,resource allocation,facet of,resource management
+317,risk strategy,part of,risk management plan
+318,plan risk management,part of,project management
+319,approving,facet of,risk management
+320,project objective result combined effect risk potential interaction,facet of,overall risk
+321,database,use,data collection
+322,project management,facet of,project
+323,root cause analysis,subclass of,preventive action
+324,risk ownership,facet of,project risk
+325,bias,facet of,bias
+326,area subject uncertainty,facet of,cost management
+327,responsibility monitoring,facet of,project
+328,transference,subclass of,third party
+329,qualitative risk analysis,studies,qualitative risk analysis ass priority
+330,reﬂected,facet of,probability distribution
+331,constraint,subclass of,constraint
+332,probability occurrence,subclass of,objective risk
+333,project schedule,instance of,project model
+334,clear responsibility accountability management,facet of,risk owner
+335,qualitative risk analysis,facet of,risk
+336,plan,use,risk management
+337,2009,point in time,2009
+339,marlene carnevali,spouse,bruce c
+340,risk,studied by,determining risk
+341,name knowledge area,instance of,practice standard
+342,monitor control risk,facet of,plan risk management
+343,proof demonstration,uses,proof
+344,project review,part of,project review meeting
+345,identify risk,facet of,risk
+346,life-cycle phase,facet of,project
+347,importance specific objective,subclass of,reason
+348,uncertainty,facet of,riskiness
+349,risk response,subclass of,allocating
+351,risk,has part,probability
+352,contrast threat,subclass of,threat
+353,project experience,facet of,project
+354,anthony,instance of,phd
+356,pmi practice standard characterized follows practice standard,instance of,guideline mechanic
+357,phase entry,part of,stage
+358,risk exposure,part of,portfolio
+359,framework structure,use,risk identification
+361,cost time scope,facet of,probability impact matrix
+362,probability,has effect,occurrence
+363,chapter dealing process,facet of,risk management
+364,project schedule assumption list,subclass of,breakdown structure
+365,owner risk,subclass of,nominated risk
+366,risk exposure project,facet of,risk exposure
+367,risk report,facet of,project
+368,project life cycle risk,facet of,project plan
+369,specialist discipline,studies,everyday language
+370,propinquity,subclass of,probability
+371,pmbok,use,risk program
+372,background description,part of,context
+373,secondary risk risk,subclass of,risk response
+374,qualitative risk analysis,subclass of,quantitative risk analysis
+375,risk report,main subject,risk response strategy
+376,risk profile,facet of,risk
+377,qualitative risk analysis,subclass of,risk process
+378,rb,part of,rb
+379,Passive acceptance,opposite of,proactive action
+380,contingency reserve,subclass of,money resource
+381,format risk audit,subclass of,audit
+383,audit,facet of,risk
+384,risk effect,facet of,relationship
+385,risk response plan,facet of,risk response
+386,aligned reference practice standard,subclass of,practice standard
+387,csfs,use,project management
+388,progressive elaboration,part of,project planning
+389,risk action,subclass of,action
+390,structured risk description,subclass of,risk description
+391,pmp,has part,b
+392,risk assessment,studies,probability impact
+393,threshold action,part of,risk process
+394,individual risk nominated owner response plan,subclass of,risk response
+395,project risk management,subclass of,risk management
+396,project management plan,use,project management
+397,variance analysis,subclass of,performance measurement
+398,111 response strategy,instance of,response strategy
+399,associated risk,facet of,objective
+400,risk response strategy,facet of,risk
+401,authorization,has part,trigger condition
+402,english,indigenous to,north american
+403,risk effect uncertainty,subclass of,uncertainty
+404,project risk plan,subclass of,risk analysis
+405,risk register,use,identify risk process
+406,project management information system,subclass of,software
+407,documentation,facet of,project
+408,construction,has cause,weather
+409,identify risk project,facet of,historical record project
+410,moderate low,instance of,high
+411,customer seller regulator,instance of,outside organization
+412,expected difference,subclass of,probability
+413,project risk management,opposite of,isolation
+414,driver positive variation,opposite of,driver negative variation
+415,basis estimate,facet of,risk analysis
+416,risk response planning,facet of,project team
+417,mcts,has part,pmp
+418,seller performance report,use,change request information inspection
+419,project objective,part of,analytic hierarchy
+420,overall risk,subclass of,risk
+421,project risk management,facet of,project stakeholder
+422,de zouza mello,instance of,sps
+423,input tool technique output process,subclass of,data ﬂow diagram process
+424,high impact medium probability,facet of,risk management
+425,validity assumption constraint,facet of,pose risk
+426,wencel pmp rafael pia quintal alexey d.,member of,quintal alexey d.
+427,motivational bias,subclass of,cognitive bias
+428,Strategic impact,facet of,strategic
+429,driver negative variation,opposite of,driver positive variation
+430,source bias,has effect,effect risk
+431,cumulative probability distribution,facet of,probability
+432,historical information,subclass of,source information
+433,status report template typical agenda status meeting,main subject,status meeting
+434,reserve,subclass of,confidence
+435,common risk attitude,subclass of,risk attitude
+436,might happen future,subclass of,uncertainty
+437,benefit,instance of,benefit
+438,payment risk premium,subclass of,risk transfer
+439,risk,subclass of,risk
+440,area subject uncertainty,facet of,schedule management plan
+441,mitigation enhancement,subclass of,response strategy
+442,risk management,studies,risk
+443,cause-risk-effect chain,instance of,structured risk statement
+444,strength,opposite of,weakness
+445,pmp saradhi motamarri,instance of,mtech
+446,risk assessed implication,facet of,risk
+447,risk breakdown structure,use,risk identification
+448,linda e,spouse,shaun smith
+449,pmp,instance of,mark
+450,computer-intensive simulation,subclass of,simulation
+451,uncertainty greatest effect,facet of,project risk
+453,risk process,facet of,risk
+454,project management plan,use,project risk management
+455,project time,facet of,project management
+456,overall system,facet of,level quality system
+457,degree risk perceived,facet of,stakeholder
+458,xiaojun zhou,sibling,zakaria
+459,Delphi technique,use,anonymous polling
+460,high wycombe,country,buck uk
+461,pmi,instance of,standard
+462,project schedule,subclass of,cost estimate
+463,spreadsheet,subclass of,implementation
+464,checklist,use,risk identification
+465,project risk source,facet of,project risk
+466,representative group,subclass of,stakeholder
+467,cost resource assignment,subclass of,scheduling
+468,quality management plan,subclass of,plan
+469,register updated information technique,use,identifying risk
+470,risk,subclass of,process
+471,risk review,facet of,risk
+472,plan,use,project management
+473,counterproductive,subclass of,response strategy
+474,participation risk identification cycle,facet of,risk management
+475,commitment act,main subject,commitment
+476,transfer,subclass of,transfer
+477,period time risk,facet of,project objective
+478,meta-language,facet of,risk
+479,rb framework,use,rb
+480,probability cost,has part,reward
+481,deputy pm,subclass of,pm
+482,cost risk simulation,subclass of,simulation
+483,best practice,use,benchmarking
+484,fred stein roeland stellingwerff jim stewart,father,fred stein roeland stellingwerff jim stewart
+485,risk action,facet of,risk action
+486,root-cause analysis,studies,root cause
+487,negative effect,subclass of,uncertainty
+488,delphi technique,based on,continued98d technique
+489,nancy watanabe,instrument,watanabe
+490,phase,part of,project
+491,impact response,subclass of,risk response
+492,cause effect,has cause,uncertainty
+493,start iteration,facet of,agile development environment
+494,restraining force force change,opposite of,driving force force change
+495,key participant risk identification,facet of,project stakeholder
+496,term text,part of,glossary
+497,framework model order,facet of,area uncertainty
+498,event weighting,facet of,probability
+499,framework risk interview,uses,risk breakdown structure checklist
+501,residual risk,subclass of,uncertainty
+502,industry knowledge base special case checklist,instance of,checklist
+503,essential risk,subclass of,risk
+504,significant event,part of,schedule
+505,concept principle,facet of,project risk management
+506,design engineering,studies,project
+507,root cause identified,facet of,root cause
+508,risk management planning,has part,risk identification analysis
+509,probability impact matrix,has part,positive definition impact opportunity
+510,risk exposure,facet of,risk
+511,project risk management,facet of,project organization
+512,high proximity,subclass of,short period
+513,resource management plan,facet of,resource
+514,figure 6-2,depicts,process
+515,option action,facet of,project objective
+516,structured thinking,subclass of,visual representation
+517,likelihood,subclass of,probability
+518,stop re-scope,facet of,project risk
+519,cadena franco,instance of,caron
+520,sivakumar,sibling,sanyasi rudolf schenker marcio schmidt
+521,urgent address,subclass of,risk
+522,project,uses,circumstance change
+523,condition,part of,process
+524,glossary,has part,term text
+525,area subject uncertainty,subclass of,risk
+526,risk management,studies,risk management plan
+527,risk analysis,studies,risk addition probability
+528,david violette,instrument,pmp
+529,internally-generated risk,subclass of,risk
+530,positive event,opposite of,negative event
+531,mohd al-kuwari anirban da m,spouse,gwendolyn darby
+532,risk monitoring,subclass of,control action
+533,risk management plan,has part,risk report
+534,significant propinquity,subclass of,risk
+535,system sensitivity,has effect,risk
+536,project risk,facet of,project manager
+537,reliability,facet of,probability failure
+538,expert judgment,facet of,risk
+539,trigger condition,subclass of,appropriate
+540,coordinating response overlap,subclass of,analysis
+541,identify risk,facet of,project risk
+542,carlos eduardo,instrument,boxwell
+543,general level,instance of,principle
+544,software,part of,computer
+545,stakeholder,studied by,risk management
+546,template,part of,appendix
+547,project manager,subclass of,stakeholder
+548,sub-team leader,part of,project core team
+549,feature organization,use,risk management
+550,project completion date,facet of,probability distribution
+551,stakeholder project management,subclass of,project management
+552,project risk management,facet of,project management
+553,project planning,facet of,project environment
+554,optimal risk response,facet of,risk
+555,project definition document,subclass of,objective reference
+556,stakeholder,facet of,communication management
+557,assumption justifying level,subclass of,Explanatory detail
+558,secondary risk,subclass of,secondary
+559,probability impact matrix,use,risk scoring
+560,project plan,use,risk management
+561,unbiased source information,subclass of,bias
+562,responsibility,subclass of,risk
+563,recognition risk management,facet of,project time
+564,significant process tool technique,use,information significant process
+565,index ect,subclass of,organization preference
+566,main road junction,has effect,crash
+567,risk appetite threshold,facet of,risk
+568,uncertainty,subclass of,human activity susceptible bias
+570,quantitative risk analysis,studies,project risk
+571,project phase,facet of,project budget
+572,risk response,facet of,change schedule
+573,Hierarchical chart,instance of,chart
+574,identified risk,facet of,risk
+575,risk interest management,facet of,risk
+576,105d risk responded last period,instance of,status action
+577,project manager,field of this occupation,project personnel
+578,project planning,subclass of,planning
+579,practice standard intended prescriptive pmbok guide,use,pmbok
+580,hill pmp rosemarie,subclass of,rosemarie
+581,change risk trigger condition,subclass of,trigger condition
+582,appendix,part of,application area
+583,john hendricks,sport,pmp
+584,probability occurrence,subclass of,probability
+585,risk management,studies,risk response
+586,polisetty veera subrahmanya kumar,instance of,gene g
+587,capture positive effect,facet of,uncertainty
+588,segregated analysis,subclass of,response planning
+589,ahp,instance of,software
+590,cost element,subclass of,project element
+591,risk attitude,facet of,risk
+592,risk exposure,subclass of,manage risk
+593,confidentiality,subclass of,trust
+594,cost quality,facet of,quality
+595,level effort,subclass of,Consolidated information
+596,technical,subclass of,project management
+597,project risk sum,facet of,project
+598,software,subclass of,software
+599,project,has part,execution
+600,planning,part of,project management
+601,non-government organization,subclass of,business
+602,risk response strategy,facet of,project risk
+603,monitor risk process,subclass of,risk register
+604,consensus body,subclass of,concurrence
+605,previous similar situation,facet of,database
+606,purpose risk identification,facet of,risk
+607,high,subclass of,detectability
+608,recorded issue log,facet of,risk response process
+609,handbook,part of,textbook
+610,cost,subclass of,time
+611,later phase project,follows,earlier project
+612,risk response planning,facet of,risk assessment
+613,Prof prof ineffective,subclass of,strategy
+614,fredrick,instance of,pmp
+615,checklist,has part,checklist
+616,project go forward,facet of,project
+617,glenda clark,subclass of,lorri cline
+618,item appear checklist,main subject,item appear
+619,industry knowledge base,subclass of,knowledge
+620,resource logistics,facet of,risk
+621,pmbok guide fourth edition,main subject,project management
+622,key seller,facet of,business project
+623,sensitivity analysis,studies,risk
+624,decision consideration implication,part of,decision tree diagram
+625,risk acceptance,facet of,proactive action
+626,contingency response strategy,facet of,project management plan
+627,risk response,facet of,risk exposure
+628,plan,use,project planning
+629,rob nelson,sport,vaman g
+630,cot percentage,facet of,probability event
+631,project manager,field of this occupation,project risk
+633,cost-effective,subclass of,feasible
+634,karen l,sport,pmp
+635,critical success factor,has part,strength weakness
+636,project risk management,studies,project risk
+637,project form framework,facet of,project
+638,risk,subclass of,liability
+639,trigger condition,facet of,contingency response strategy
+640,scope boundary,facet of,project
+641,negative,opposite of,positive
+642,risk categorization,subclass of,framework
+643,manuel huerta tomio chiba,place of birth,tomio
+644,technical environmental,subclass of,economic
+645,line-item cost schedule,subclass of,probability distribution
+646,share benefit opportunity,subclass of,transferring ownership
+647,institute,field of work,electrical electronic engineer
+648,communication plan,facet of,communication
+649,risk lot detail,facet of,risk
+650,risk culture,subclass of,attitude
+651,risk management plan,part of,project management plan
+652,project team,has part,stakeholder
+653,technical specification,part of,contract
+654,ishikawa diagram,depicts,risk effect
+655,schedule,facet of,project
+656,branch,part of,decision tree
+657,risk owner,opposite of,risk action owner
+658,david t,occupation,project manager
+659,project management,has part,project risk management
+660,project defined risk management plan,uses,risk category
+661,project management plan,has part,project risk management
+662,risk report,main subject,risk
+663,forward strategy,subclass of,planning
+664,responsibility action,subclass of,action
+665,plan risk response process,facet of,project management
+666,standard manner extension,subclass of,extension
+667,criticality analysis,subclass of,risk analysis
+668,contingency reserve,subclass of,risk-related
+669,qualitative,subclass of,risk analysis
+670,original risk,subclass of,risk
+671,simulation run,subclass of,simulation
+672,source risk,subclass of,risk
+673,risk model,subclass of,model
+674,project planning,part of,project strategy
+675,project organization,field of work,project risk management
+676,audited,part of,risk management
+677,agile,subclass of,adaptive environments
+678,diagrammatic form,subclass of,technique
+679,risk information,part of,risk register
+680,project organization comparable project organization,subclass of,project organization
+681,pgmp,different from,pmp
+682,risk score,facet of,risk risk
+683,targeted audience,facet of,participate management
+684,norberto figuerola,child,imad babbili norberto figuerola
+685,iterative repeating,subclass of,iterative
+686,schedule,part of,budget
+687,scope baseline,facet of,risk
+688,cost forecast,instance of,forecast
+689,risk category,facet of,risk
+690,group stakeholder,subclass of,stakeholder
+691,secondary risk,opposite of,primary risk
+692,impact risk,subclass of,risk
+693,risk,subclass of,managing
+694,risk analysis,studies,risk
+695,iterative repeating,facet of,project risk management
+696,converse effect,facet of,risk response
+697,risk priority,subclass of,objective
+698,standard institute,country,british
+699,risk probability,subclass of,probability
+700,risk response,subclass of,change cost
+701,action inaction,opposite of,course action
+702,risk impact objective,studied by,risk model
+703,effect risk,subclass of,risk
+704,political,subclass of,organizational cause
+705,structure,subclass of,technique
+706,project,facet of,risk management
+707,status response action,subclass of,action
+708,78d,part of,ishikawa diagram
+710,trigger condition,has part,trigger
+711,scenario example,subclass of,scenario analysis
+712,integration project management,subclass of,project management
+713,project release management,practiced by,project manager
+714,risk response,subclass of,change scope
+715,risk,has effect,objective
+716,team assignment,facet of,project
+717,b,instance of,subhash
+718,root cause,has effect,risk
+719,sridhar,instance of,pydah
+720,risk breakdown structure,facet of,risk
+721,process,part of,organizational
+722,geneva switzerland,instance of,international organization standardization
+723,affirmative,subclass of,comment
+724,project-specific rb,use,project project
+725,risk reassessment,facet of,risk
+726,style format,subclass of,practice standard
+727,kuzhikat pmp,instance of,itil
+729,risk response,studied by,risk management
+730,historical review,subclass of,examination
+731,cost schedule,facet of,project
+732,integrated change control process,part of,project management plan
+733,high urgency,subclass of,short period
+734,senior level,subclass of,document
+735,inherent level uncertainty,facet of,risk management
+736,emergent risk,subclass of,risk
+737,risk pose greatest threat present greatest opportunity project indicated sensitivity analysis,facet of,project risk
+738,perspective risk,subclass of,risk
+739,result,use,project risk management
+740,risk exposure,facet of,project risk
+741,project risk management,subclass of,process
+742,project risk,subclass of,individual risk
+743,identify risk,subclass of,risk identification
+744,risk management plan,subclass of,plan
+745,duration estimate,subclass of,starting point
+746,role risk owner,subclass of,risk action owner
+747,qualitative analysis,studies,risk
+748,probability impact risk,subclass of,risk
+749,strategy,has part,stakeholder
+750,example given below,instance of,example
+751,detail person,part of,organization
+752,information significant,subclass of,significant
+753,monte carlo analysis,subclass of,simulation technique
+754,valeri,instance of,honour
+755,contractual requirement,facet of,project
+756,generic risk,subclass of,broader effect
+757,project document,subclass of,input process
+758,pertmaster,use,histogram monte carlo simulation
+759,time,facet of,risk
+760,associated risk,facet of,project
+761,urgency,instance of,characteristic
+762,risk,part of,objective
+763,exceptional event,subclass of,escalation
+764,impact,subclass of,threat
+765,risk management,subclass of,risk management
+766,industry body,subclass of,organization
+767,risk mitigation,subclass of,enhancement action
+768,execution project risk management,subclass of,risk management
+769,project life cycle,studied by,risk management
+770,risk identification analysis,use,risk reassessment
+771,register,use,lesson learned
+772,budget,has part,schedule
+773,bond kiron bondale,subclass of,blaine
+774,project strength,opposite of,weakness
+775,plan,facet of,project
+776,paradox uncertainty,subclass of,uncertainty
+777,figure 5-1,depicts,category
+778,probability impact matrix,use,scoring
+779,priyesh gopalakrishnan,award received,robert grant
+780,non-linear utility function,opposite of,expert use utility function
+781,risk assessment based agreed-upon definition,facet of,risk
+782,enterprise environmental factor,facet of,risk analysis
+783,risk identification,facet of,risk
+784,possibility magnitude,facet of,project risk
+785,stakeholder implication,facet of,exposure
+786,good wb,subclass of,wb elements
+787,constraint analysis,subclass of,field description analysis
+788,probability impact,studied by,risk assessment
+789,quantitative method,subclass of,risk analysis
+790,issue log,part of,project document
+791,project schedule,facet of,schedule
+793,contingency,subclass of,risk
+795,risk audit,part of,risk management
+796,risk statement,facet of,risk
+797,pmp peter lierni alexander revin pmp christopher e,has part,pmp peter lierni alexander revin pmp christopher e
+798,risk,facet of,project
+799,resource,part of,activity
+800,probabilistic analysis,studies,probabilistic
+801,symptom warning sign,subclass of,indicator urgency
+802,residual risk,subclass of,response
+803,project success,studied by,project risk management
+804,interim milestone,subclass of,cost target
+805,project risk management,subclass of,practice standard
+806,strength weakness,subclass of,weakness
+807,transfer,subclass of,share
+808,critical path simulation,subclass of,risk model
+809,improve,subclass of,enhance
+810,risk analysis,studies,credibility
+811,project objective,has effect,outcome
+812,quality score,facet of,data quality
+813,monitor control risk,subclass of,risk
+814,initial procurement,subclass of,procurement
+815,choose appropriate response,subclass of,decision-making
+817,moderate high,instance of,risk impact level
+818,quantitative analysis,subclass of,analysis
+819,quantified risk,subclass of,risk analysis
+820,probability,has part,risk
+821,george hopman,occupation,pmp
+822,risk threshold,facet of,risk appetite
+823,starting point glossary,subclass of,glossary
+824,reﬂect,facet of,probability distribution
+825,area project affected example,instance of,risk breakdown structure
+826,project risk exposure,facet of,project risk
+827,alternative outcome,subclass of,reasonable alternative
+828,probability,subclass of,result risk
+829,relative weighting,facet of,project
+830,sensitivity analysis,subclass of,analysis
+831,jr,subclass of,gildersleeve
+832,project requirement,subclass of,documentation
+833,risk impact,facet of,risk
+834,probability effect,subclass of,uncertainty dimension
+835,risk attitude,has part,stakeholder
+836,ontario canada,instance of,standard association
+837,project management plan,facet of,project
+838,risk attention,facet of,risk perception
+839,bennett douglas,member of,a
+840,project risk,subclass of,risk
+841,mba massimo torre,occupation,phd
+842,risk management,subclass of,communication
+843,decision tree,studied by,decision tree analysis
+844,pmp,part of,msis
+845,meeting,practiced by,facilitator
+846,brainstorm session,used by,guidance facilitator
+847,qualitative risk analysis,studies,probability risk
+848,expert,field of this occupation,information
+849,risk attitude expectation,facet of,risk-related information management
+850,risk action owner need briefed change,facet of,risk owner
+851,two parameter probability impact matrix,subclass of,probability impact matrix
+852,process,part of,project
+853,project risk,subclass of,risk analysis
+854,data source,use,risk management
+855,project risk,facet of,project opportunity
+856,histogram,use,simulation
+857,project risk priority order,subclass of,risk report
+859,project risk,facet of,project risk
+860,p-i matrix,subclass of,probability impact matrix
+861,generic risk checklist,subclass of,risk checklist
+862,response,part of,scenario
+863,risk,studied by,assessment
+864,contingency reserve,subclass of,allocated time cost
+865,Rebecca spohn,instrument,musaliyath
+866,case risk,subclass of,risk
+867,owner designated identified risk,facet of,risk
+868,risk,studied by,risk management
+869,managed,facet of,project risk management
+870,external project,subclass of,project
+872,kumar,instrument,kumar cissp
+873,project risk management,studies,project risk management
+874,cost-schedule risk analysis,subclass of,quantitative
+875,passive acceptance,opposite of,proactive action
+876,objective risk reassessment,facet of,risk management
+877,beta uniform,subclass of,discrete distribution
+878,risk register,use,risk management plan
+879,risk management,subclass of,planning
+880,glossary term,part of,practice standard
+881,4.1.2.3.4 interpersonal team skills,part of,4.1.2 interpersonal team skills
+882,project risk source uncertainty,subclass of,starting point effect
+883,template,part of,example
+884,risk management plan different risk register,instance of,risk register
+885,figure d8,facet of,root cause analysis
+886,risk,subclass of,decision point view
+888,project risk status,facet of,project risk
+889,project execution schedule,instance of,technical achievement
+890,example bubble chart,depicts,disk bubble
+891,occurrence impact,facet of,risk uncertain event
+892,component,part of,project management plan
+893,quantitative risk analysis,studies,risk
+894,uncertain event,subclass of,project risk
+895,project scheduling,part of,project management
+896,root cause risk response,facet of,root cause
+897,risk response planning,facet of,risk
+898,pedro c,subclass of,pmp
+899,tracking,subclass of,tracking
+900,cross-industry,part of,multi-organizational
+901,strategic level,followed by,tactical level
+902,familiarity,subclass of,risk
+903,notified opportunity,participant,project manager
+904,manage risk,subclass of,risk management
+906,level risk,subclass of,risk
+907,resource calendar,facet of,resource available
+908,risk action owner,subclass of,owner
+909,decision tree,subclass of,analysis
+910,occurrence impact risk,subclass of,ease risk
+911,viresh c shah,instrument,shanker
+912,risk owner,subclass of,owner
+913,risk management plan,has part,risk review
+914,reliability,different from,time
+915,generally recognized good practice,use,project risk management
+916,course action,part of,tornado diagram
+917,abhimanyu parasher,sibling,daniel pacholski
+918,numeric value,part of,probability
+919,particular responsibility relation,facet of,project risk management
+920,project risk management,facet of,business challenge
+921,time analysis,subclass of,audit
+922,certain cause impact,different from,uncertain cause impact
+924,guidelines principle implementation risk management,subclass of,risk management
+925,roozbehi,instance of,ammar
+927,environmental impact,instance of,industrial relation factor
+928,delegated project team management,facet of,project risk
+929,project risk level,facet of,project risk associated risk response
+930,proposed response,subclass of,risk response
+931,uncertain future event,subclass of,risk
+932,result risk management planning,instance of,risk management plan
+933,project resilience,facet of,emergent risk
+934,cost schedule,part of,risk analysis
+935,combined effect risk,subclass of,quantitative risk analysis
+936,root cause analysis,subclass of,data analysis
+937,11.2 risk report,instance of,risk report
+938,individual risk,facet of,risk management
+939,controllability,facet of,controllability
+940,least factor,use,quantitative risk analysis
+941,jme maxwell,occupation,pmp
+942,decision tree,has part,branch
+943,expert judgment,subclass of,expertise
+944,risk specific event condition,subclass of,risk
+945,project team,practiced by,project manager
+946,risk register,use,risk response
+947,high risk h moderate risk low risk l class 90d,instance of,probability-impact matrix
+948,contingency reserve,subclass of,cost
+949,project risk negative enhancement,subclass of,mitigation
+950,threat pose,subclass of,risk
+951,project objective,facet of,project risk
+952,influence diagram,subclass of,diagrammatic representation
+953,project risk accept risk,subclass of,risk
+954,owned,facet of,risk
+955,contingency reserve,part of,budget strategy
+956,expert judgment,subclass of,specialized knowledge
+957,contract,has part,technical specification
+958,jame healy sergio,instance of,sergio
+959,detailed risk approach,subclass of,risk management
+960,project future project,facet of,project
+961,frequency analysis,subclass of,analysis
+962,quantitative risk information,use,risk response planning
+963,investment,subclass of,example
+964,relevant lesson learned stage,subclass of,experience taken account
+965,risk order,studied by,risk management
+966,performance-related risk,subclass of,monitoring
+967,risk aim,facet of,risk response planning
+968,jillian oconnell,occupation,nunnery
+969,vandegrift sri pavan vardan vemu christoph verschuere ir pmp cism marianne viegas yiannis vithynos pmp msc steve waddell paul wait jr.,sibling,vandegrift sri pavan vardan vemu christoph verschuere ir pmp cism marianne viegas yiannis vithynos pmp msc steve waddell paul wait jr.
+970,compiled,part of,project
+971,uncertainty,has effect,cause effect
+972,probability,facet of,risk
+973,effect,instance of,effect
+974,project manager,field of this occupation,project release management
+975,risk,studied by,assessing individual risk
+976,schedule management plan,subclass of,project management plan
+977,addition corresponding risk,has effect,cease current
+978,project management code,use,project risk management
+979,4 plan risk management,subclass of,managing risk
+980,project strategy,facet of,scope
+981,limit extent opportunity proactively managed,facet of,limit extent opportunity proactively managed
+982,project risk,subclass of,effect uncertainty
+983,precision tree palisade,subclass of,shelf cot
+984,deterministic project management,use,project scheduling
+985,secondary risks,subclass of,risk
+986,part watch list,subclass of,risk register
+987,project team assignment,facet of,project
+988,risk metalanguage,use,risk description
+989,risk response,facet of,project
+990,credibility,studied by,risk analysis
+991,risk register,use,risk management
+992,limited interview,subclass of,data gathering
+993,contingency reserve,subclass of,risk
+994,consequence,subclass of,consequence
+995,ow control,facet of,project risk management
+996,completeness correctness model,use,risk analysis
+997,project risk management,subclass of,communication
+998,cost benefit,has part,probability
+999,non-linear utility function,opposite of,linear expected monetary value basis
+1000,low level probability,subclass of,probability
+1001,accepted threat opportunity,subclass of,opportunity
+1002,project risk,facet of,project management
+1003,impact scale,facet of,threat impact
+1004,david hillson,instrument,pmp
+1005,passively accepted risk,subclass of,risk
+1006,negative event,opposite of,positive event
+1007,project risk management,part of,project manager
+1008,threat opportunity,subclass of,threat
+1009,project risk,subclass of,risk response
+1010,krista lynn,member of,pizzurro
+1011,risk important response analysis,subclass of,risk analysis
+1012,monte carlo simulation,use,decision tree analysis
+1013,risk response process,use,risk response
+1014,benefit inclusion,subclass of,benefit
+1015,residual risk priority,subclass of,risk priority
+1016,contingent response,subclass of,strategiessome
+1017,register,facet of,stakeholder
+1018,valerie claire brasse,spouse,john j
+1019,code practice,use,risk management
+1020,technical knowledge,subclass of,subject matter expertise
+1021,project risk characteristic,facet of,project management plan
+1022,chandrasekar ramakrishnan,religion,abhilash
+1023,impact failure,subclass of,redundancy system
+1024,project document,author,project sponsor
+1025,project risk,facet of,project activity
+1026,explicit index,part of,organization
+1027,karel de bakker,sibling,thijs de jong alfredo del cano peter b
+1028,cost benefit,facet of,project risk management
+1030,economic,has part,political
+1032,project manager,employer,project sponsor
+1033,ccpm,use,critical chain project management
+1034,accepting opportunity,subclass of,action
+1035,expert use utility function,opposite of,non-linear utility function
+1036,11.2.1 risk register,instance of,risk register
+1037,project risk,subclass of,overall project risk
+1038,life cycle,has part,action review
+1039,prioritizing risk,subclass of,managing qualitative technique
+1041,risk response,subclass of,risk
+1042,roberta storer,occupation,product editor
+1043,project plan,facet of,project
+1044,check organization,instance of,principle
+1045,project outcome,facet of,project risk
+1046,4 strategic definition risk response,facet of,risk response
+1047,ensuring generally occur together,subclass of,correlating
+1048,highest priority level,subclass of,risk
+1049,risk uncertainty,subclass of,uncertainty effect
+1050,organizational weakness,opposite of,organizational strength
+1051,sponsor level,facet of,project management
+1052,schedule management plan,subclass of,plan
+1053,logical dependency correlation,instance of,model
+1054,eng,subclass of,pmp
+1055,positive effect,has effect,objective arising occurrence opportunity
+1056,recognize bias,facet of,bias
+1057,uncertainty,subclass of,risk
+1058,risk response option,subclass of,decision response appropriate
+1059,organizational commitment,facet of,risk management
+1060,internal external requirement,facet of,project risk management
+1061,2005,point in time,2005
+1062,project uncertain,facet of,project
+1064,exploit strategy,facet of,opportunity organization
+1065,risk management plan template,use,risk management
+1066,barrier effectiveness,facet of,risk management
+1067,expert seller,subclass of,project sponsor
+1068,project size,part of,application area
+1069,project change management,part of,project management
+1070,project management body knowledge pmbok,use,project risk management
+1071,party organization,subclass of,organization
+1072,risk management,has part,risk response
+1073,risk appetite,has part,stakeholder
+1074,organizational process asset influence,use,quantitative risk analysis
+1075,project scope plan,facet of,project
+1076,impact plan,subclass of,plan
+1077,project management review update,facet of,project volatility environment
+1078,document validate assumption,part of,planning process
+1079,project level,part of,organization
+1080,performance objective,facet of,project
+1081,ass change respect time cost,subclass of,performance index
+1082,contract agreement,subclass of,technical documentation
+1083,negative effect,opposite of,positive
+1084,documented risk management plan,facet of,risk management
+1085,response action,facet of,risk
+1086,eliminate threat project,facet of,eliminate threat
+1087,probability occurrence,facet of,probability
+1088,Monte Carlo analysis,instance of,Carlo analysis
+1089,individual risk project,subclass of,attention given possibility
+1090,sanyasi rudolf schenker marcio schmidt,sibling,sivakumar
+1091,budgeting,facet of,change management
+1092,risk recognized,subclass of,recognized
+1093,uncertain,subclass of,future scenario
+1094,tactical approach,subclass of,strategic level strategy
+1095,objective risk,subclass of,numerical weight
+1096,resource requirement,facet of,project
+1097,methodology,subclass of,methodology
+1098,high-priority risk,subclass of,benefit process
+1099,sd diagram,depicts,feedback loop
+1100,Ahp method,instance of,calibrate preference
+1101,risk register,facet of,risk process
+1102,level threat,subclass of,threat
+1103,alcal g,instance of,alcal
+1104,cost baseline,instance of,baseline
+1105,risk management policy,part of,risk management
+1106,primary backup strategy,subclass of,risk response strategy
+1107,stakeholder,facet of,attitude
+1109,2007,point in time,2007
+1110,due date,subclass of,uncertainty
+1112,risk response,subclass of,action
+1113,1 risk uncertain future event,subclass of,uncertain future event
+1114,uncertainty,facet of,decision
+1115,important distinguish risk risk-related feature,subclass of,cause effect
+1116,quantitative risk analysis,subclass of,modeled
+1117,quantitative technique,opposite of,qualitative technique
+1118,duration sequence,subclass of,sequence
+1119,responsibility,facet of,risk management
+1120,unknowable-unknowns,subclass of,emergent risk
+1121,list risk,facet of,objective interest management
+1122,time well management,facet of,resource
+1123,project risk management,part of,project management management
+1124,risk,subclass of,uncertainty
+1125,risk workshop,main subject,risk
+1126,cost-effective address opportunity,subclass of,strategy
+1127,mitigation action,use,mitigation
+1128,quantitative risk analysis,studies,risk aggregated
+1129,dimah m,instance of,dimah
+1130,project manager,subclass of,management role
+1131,threshold significant variance,subclass of,non-significant variation
+1132,3 meeting meeting,subclass of,meeting
+1133,agreed-upon definition,subclass of,information collected
+1134,source uncertainty,subclass of,uncertainty
+1135,risk response process,part of,plan
+1136,approved risk action,facet of,risk
+1137,project management process,use,project management
+1138,waste,subclass of,resource
+1139,risk response,part of,plan
+1140,risk,facet of,outset project
+1141,brainstorming,subclass of,data gathering
+1142,force change,studied by,force field analysis
+1143,cost risk analysis,subclass of,quantitative
+1144,quantitative schedule risk analysis,subclass of,forecast
+1145,project end date,facet of,project cost completion
+1147,think creatively,subclass of,ability
+1148,non-linear utility function,opposite of,linear utility function
+1149,resource recovery,facet of,resource
+1150,Quantitative risk analysis,subclass of,risk analysis
+1151,project manager,field of this occupation,project
+1152,risk register,use,quantitative risk analysis
+1153,risk identification analysis,facet of,risk management
+1154,monitor risk process,subclass of,issue log
+1155,reminder,use,reminder
+1156,potential risk owner,subclass of,owner
+1157,economic analysis,has part,robust
+1158,risk management,subclass of,process
+1159,deputy project manager,subclass of,phd
+1161,Strategy mix strategy,facet of,selected risk
+1162,risk data quality assessment,subclass of,data analysis
+1163,laurie hall robert,instrument,pmp
+1164,probability magnitude,facet of,probability
+1165,objective,subclass of,exist relation
+1166,asif ahmad,father,amr nabil ahmed
+1167,chris cartwright,occupation,pmp
+1168,cost,part of,schedule
+1169,conditioned part way risk handled,subclass of,risk management
+1170,data flow diagram,subclass of,flow diagram
+1171,project team,field of work,project
+1172,template,part of,table
+1173,role responsibility,facet of,risk management
+1174,foundation process,facet of,credibility
+1175,risk management,studies,project
+1176,test assumption constraint,subclass of,list assumption constraint
+1177,contingency reserve,facet of,project risk
+1178,technical maturity,subclass of,weather aggressive estimating
+1179,risk management methodology,use,risk management
+1180,project,part of,enterprise
+1181,bias,studied by,risk analysis
+1182,information result project risk management,use,project management
+1183,performance bond,subclass of,insurance
+1184,risk,subclass of,information
+1185,scope boundary,part of,project
+1186,risk breakdown structure,facet of,project type
+1187,project risk management,subclass of,project management discipline
+1189,risk register,part of,risk management plan
+1190,individual risk,facet of,individual risk
+1191,strategic risk management,subclass of,risk management
+1192,short risk title,facet of,risk category
+1193,q20012001e,instance of,q20012001e
+1194,risk,facet of,risk
+1195,cynthia,instance of,charter standard
+1196,best practice,use,risk management
+1197,documentation scheme,use,status meeting
+1198,cost baseline information,facet of,contingency fund
+1199,risk register,facet of,risk owner
+1200,resource management plan,subclass of,plan
+1201,assessment risk parameter,subclass of,risk parameter
+1202,project,instance of,life cycle
+1203,culture,part of,organization
+1204,objective,subclass of,objective
+1205,participate ballot practice standard,use,project risk management
+1206,risk management plan,facet of,risk management
+1207,mohammad moradi,spouse,linda
+1208,risk response strategy,subclass of,decision-making technique
+1209,monitor control,facet of,control risk
+1210,documentation,subclass of,documentation
+1211,s-curves tornado diagram,use,quantitative risk analysis
+1212,cost control,facet of,project management
+1213,risk response plan,subclass of,resource allocated action
+1214,risk exposure,facet of,risk status
+1215,period time within response risk,subclass of,order effective
+1216,risk management,studies,stakeholder
+1217,risk management vocabularyguidelines use standard,publisher,bsipd
+1218,project management process,use,project risk management
+1219,impossible know advance risk,facet of,project
+1220,resource loading leveling,facet of,schedule management
+1221,risk response,subclass of,risk action
+1222,likelihood specific risk,subclass of,risk
+1223,combined set response strategy,instance of,invalid
+1224,risk management planning,facet of,risk management
+1225,first response,subclass of,risk response planning
+1226,example decision tree,instance of,influence diagram
+1227,risk action owner,facet of,risk management
+1228,risk management plan,studied by,risk management
+1229,instability inconsistency incompleteness,subclass of,inaccuracy instability
+1230,practice standard consistent pmbok guide fourth edition,sport,pmbok
+1231,risk breakdown structure,facet of,risk category
+1232,risk,studied by,risk analysis
+1233,impact effectiveness,subclass of,detection
+1235,71d reporting governance-related rule reporting disclosure,use,risk database
+1236,probability,has part,opportunity
+1237,cognitive motivational bias,instance of,type bias
+1238,comparable situation,subclass of,historical review
+1239,paul chris payne,member of,sameer k penakalapati
+1240,information intended explain tool technique,facet of,tool technique
+1241,contingency reserve,part of,plan risk response
+1242,contingency management reserve,subclass of,protocol application
+1243,4.1.2 interpersonal team skills,has part,4.1.2.3.4 interpersonal team skills
+1244,adaptation,subclass of,brainstorming
+1245,uncertain cause impact,different from,certain cause impact
+1246,risk appetite,subclass of,risk threshold
+1247,project risk,subclass of,assessment risk
+1248,risk-related activity,has part,stakeholder
+1249,risk identification checklist,main subject,threat opportunity
+1250,pons ramesh,instance of,dirk
+1251,project team,has part,project stakeholder
+1252,risk management,studies,risk order
+1253,ranking alternative,subclass of,decision criterion
+1254,project,has cause,project constraint
+1255,key assumption constraint,part of,assumption log
+1256,quality control,part of,quality management
+1257,symptom,studied by,root cause analysis
+1258,issue log,instance of,log
+1259,risk arises later,facet of,project
+1260,essential feature relationship,facet of,project management
+1261,high-priority risk,subclass of,risk
+1262,project risk management,use,project risk management
+1263,root-cause analysis,subclass of,software
+1265,project risk management,practiced by,project manager
+1266,undocumented risk,subclass of,data
+1267,project execution framework,facet of,project
+1268,accept,instance of,accept
+1269,impact level,part of,project-specific
+1270,project risk management,facet of,project risky
+1271,spreadsheet,use,product weight rating
+1272,simulation,subclass of,data analysis
+1273,zakaria,sibling,xiaojun zhou
+1274,tarun kumar roy,instrument,mango
+1275,action,has effect,effectiveness
+1276,duration estimate,subclass of,quantitative assessment
+1277,product,use,service
+1278,project,has part,phase
+1279,cost risk,facet of,output schedule
+1280,process group,part of,project
+1282,strategy,facet of,risk
+1283,responsibility realism,subclass of,honesty
+1284,open,subclass of,communication
+1285,process-related criterion,subclass of,criterion
+1286,benefit opportunity,subclass of,action
+1287,trigger,subclass of,contingency response
+1288,benefit statement,main subject,benefit realized
+1289,Basis estimate,subclass of,estimate
+1290,confirmed plan risk response process,facet of,plan risk response
+1291,critical success factor,facet of,project risk management
+1293,project,practiced by,project manager
+1294,new risk arise,subclass of,risk
+1296,quantified risk,subclass of,risk risk
+1297,problem statement,facet of,project
+1298,negative effect,opposite of,positive negative effect
+1299,category risk risk breakdown structure,instance of,framework
+1300,jerry ball,subclass of,pmi-sp
+1301,risk threshold,subclass of,risk
+1302,monte carlo analysis,subclass of,simulation
+1303,input tool technique,part of,data ﬂow diagram
+1304,status change risk characteristic,facet of,risk
+1305,project document,facet of,project
+1306,stakeholder register,facet of,risk project
+1307,paradox project risk affect project,facet of,project
+1309,project,has part,project set
+1310,daniel pacholski,sibling,abhimanyu parasher
+1311,project organization,subclass of,organization
+1313,random iteration,subclass of,probabilistic branch
+1314,risk model,studies,risk impact objective
+1315,owner context,part of,response
+1316,project schedule,facet of,project execution
+1317,uncertainty,facet of,project risk management
+1318,urgency,instance of,factor
+1319,imagination,use,creativity
+1320,project management institute grateful individual support,field of work,project management
+1321,cost quality,facet of,scope
+1322,contract place option,subclass of,contract
+1323,probability distribution potential,subclass of,probability risk
+1324,risk identification technique,subclass of,idea generation
+1325,project risk negative transfer,subclass of,payment risk premium
+1326,force field analysis,studies,force change
+1327,level risk,subclass of,probability
+1328,probability distribution,instance of,model
+1329,method risk,subclass of,risk
+1330,stage,has part,phase entry
+1331,contingency fallback plan,subclass of,contingency
+1332,bear impact,subclass of,risk
+1333,risk metalanguage,instance of,metalanguage
+1334,project risk minimum,facet of,project level risk exposure
+1335,completion date cost estimate,subclass of,estimate
+1336,project risk,part of,management
+1337,contingency reserve,subclass of,money
+1338,template risk register,subclass of,risk status report
+1339,qualitative risk analysis,studies,risk attitude
+1340,risk tolerance,facet of,risk
+1341,critical success factor plan,use,risk management
+1342,project,has part,plan
+1343,cost benefit,subclass of,monetary value
+1344,risk,part of,management
+1345,burndown chart,instance of,graphical representation
+1346,cost estimate,facet of,project cost
+1347,weakness,opposite of,strength
+1348,project risk exposure,facet of,project
+1349,pmbok,use,risk management
+1350,criticality analysis,facet of,tornado diagram
+1351,cognitive bias,subclass of,bias
+1352,visibility risk management,subclass of,risk management
+1353,risk register,use,risk analysis
+1354,purpose classification,subclass of,information estimate
+1355,risk risk register,used by,project manager
+1356,probability impact,facet of,risk
+1358,cost schedule,has part,line-item
+1359,project manager,part of,project team
+1360,project,has part,risk
+1361,educational purpose,subclass of,training
+1362,cost project risk management,facet of,project organization
+1363,brainstorming,instance of,technique
+1364,repair,subclass of,mitigation
+1365,performance,has part,monitored
+1366,feed-forward loop,subclass of,feedback
+1367,normal frequency repeating process,subclass of,well specific exceptional condition
+1368,identified,facet of,risk
+1369,benefit,has part,stakeholder
+1370,project risk management,facet of,project organizational environment
+1371,risk source information,subclass of,information gathering
+1372,risk register execution,use,risk response planning
+1373,implication risk,subclass of,risk
+1374,qualitative risk analysis,studies,risk
+1375,project document,part of,project management plan
+1376,risk response,subclass of,planning
+1377,monitor control,part of,project management
+1378,evms,use,projection
+1379,valid risk management plan,facet of,risk management
+1380,risk management,studies,risk process
+1381,random range,facet of,probability distribution function
+1383,probability impact scale,subclass of,analysis
+1385,dormancy,subclass of,dormancy
+1386,project risk management,facet of,project team
+1387,identifying risk,subclass of,risk categorizing
+1388,silvio hernan giraldo,spouse,silvio hernan giraldo
+1389,many tool technique,use,project risk management
+1390,integrated risk management,subclass of,risk management
+1391,risk response,facet of,risk
+1392,Strategy selected need,facet of,strategy
+1393,capm kathy,cast member,simantsvivek sivakumar
+1394,david j,instrument,pmp
+1395,risk owner ass effectiveness action,facet of,project manager
+1396,strategic goal,has effect,strategic impact
+1397,risk attitude,facet of,stakeholder
+1398,plan,facet of,risk management
+1399,magnitude risk,subclass of,risk
+1400,creativity tool,instance of,decision-support tool
+1401,0 primavera,subclass of,pertmaster
+1402,feasible,subclass of,strategy
+1403,risk overrun,facet of,budget
+1405,project,has part,process
+1406,risk,has part,objective
+1407,risk register,subclass of,unique identifier
+1408,uncertainty,facet of,risk
+1409,cumulative probability,subclass of,probability
+1410,high-impact risk,subclass of,risk
+1411,qualitative,subclass of,qualitative
+1412,managed monitor control,instance of,template
+1413,contingency reserve,part of,budget
+1414,critical chain,subclass of,project management
+1415,strategic goal,facet of,organization
+1416,new idea act,instance of,devil advocate
+1417,force field analysis,facet of,change management
+1418,contingency reserve,subclass of,budget
+1419,proactive response strategy,subclass of,priority action
+1420,forum handbook,subclass of,manual course
+1421,quantitative method,use,determine amount set aside
+1422,risk management plan,facet of,risk management methodology
+1424,project review,facet of,risk agenda
+1425,knowledge area,part of,process activity
+1426,imad babbili norberto figuerola,father,norberto figuerola
+1427,correlation coefficient,facet of,quantitative risk analysis
+1428,project risk,facet of,project’s objective
+1429,exploitation action,subclass of,effectiveness avoidance
+1431,evolution status,facet of,risk
+1432,risk response process,part of,success plan
+1433,bruce c,spouse,marlene carnevali
+1434,knowable risk,subclass of,risk
+1435,risk,studied by,risk identification
+1436,taking decision,has effect,action
+1437,phase change,facet of,project scope change
+1438,agreed-upon response,part of,project management plan
+1439,4.3.3.issue log updated capture new issue uncovered change currently logged issue,facet of,4.3.3.issue log updated capture new issue uncovered change currently logged issue
+1440,risk,subclass of,indication
+1441,quantitative risk analysis,subclass of,quantitatively
+1442,risk avoidance,facet of,risk
+1443,project risk source uncertainty,facet of,project risk
+1444,risk threshold,facet of,risk management
+1445,detectability proximity,subclass of,bubble chart
+1446,pmp,different from,pgmp
+1447,impact,facet of,impact
+1448,risk management plan,facet of,project risk management
+1449,project management plan,facet of,risk management
+1450,conduct risk management,subclass of,risk management
+1451,thijs de jong alfredo del cano peter b,sibling,karel de bakker
+1452,project,subclass of,meeting
+1453,project objective,facet of,project
+1454,quantitative risk analysis,studies,risk focus
+1455,11.3 project document updates,instance of,project document
+1456,textbook,has part,handbook
+1457,risk owner,subclass of,project manager
+1458,part plan,has part,Preliminary risk response
+1459,problem,subclass of,problem
+1460,individual risk,facet of,project objective element task
+1461,risk threshold,facet of,project risk
+1462,content risk register,use,identify risk process
+1463,project management institute,field of work,project management
+1464,enterprise environmental factor influence plan,facet of,enterprise environmental factor
+1465,81d figure d6,depicts,influence diagram
+1466,risk identification,subclass of,questionnaire
+1467,project management plan,facet of,project risk
+1468,risk register,subclass of,register
+1469,short period,facet of,dormancy
+1470,risk management,subclass of,management
+1471,information risk,subclass of,information
+1472,project risk management,part of,project management
+1473,assumptionconstraint,has part,false
+1474,project risk management,facet of,project
+1475,brainstorming,practiced by,expert part team
+1476,cost management plan,subclass of,plan
+1477,tool technique,subclass of,process
+1478,cost treating risk,subclass of,risk management
+1479,contingency planning,facet of,contingency control
+1481,project description boundary,part of,project charter
+1482,quintal alexey d.,has part,wencel pmp rafael pia quintal alexey d.
+1483,owner appropriate,subclass of,delegated action
+1484,decision tree analysis,studies,decision tree
+1485,probability impact matrix,subclass of,data representation
+1486,customer supplier,instance of,business structure
+1487,weakness,opposite of,project strength
+1488,ass risk,facet of,organization
+1489,cost,part of,time
+1490,managed iteration,subclass of,content iteration
+1491,project schedule well,use,risk response planning
+1492,companion profession,instance of,industry
+1493,2007 World Financial Crisis,point in time,2007
+1494,event set plan,subclass of,contingency plan
+1495,scope,facet of,project
+1496,benefit,opposite of,threat
+1497,project following element,facet of,risk management
+1498,fault tree analysis,subclass of,analysis
+1499,james yang,member of sports team,mba luay
+1500,risk identification analysis,facet of,risk
+1501,identified risk,subclass of,risk process
+1502,project risk management,subclass of,production practice standard
+1503,identify risk process,facet of,risk
+1505,residual risk,subclass of,risk
+1506,driving force force change,opposite of,restraining force force change
+1507,risk,studied by,risk assessment
+1508,select appropriate response,part of,strategy planning
+1509,register updated information,use,risk response
+1510,impact targeting factor,facet of,size potential benefit
+1511,pmbok,use,project management
+1512,option rating,instance of,criterion
+1513,fallback plan,subclass of,contingency plan
+1514,project schedule,facet of,project
+1515,risk identification checklist,use,historical review
+1516,incremental development,subclass of,simulation
+1517,risk,has effect,effect
+1518,gwendolyn darby,spouse,mohd al-kuwari anirban da m
+1519,project status,facet of,risk
+1520,risk based,facet of,risk
+1521,cost schedule,facet of,project management
+1522,risk,facet of,urgency
+1523,riskidentification,facet of,risk
+1524,frequency determined plan,use,risk management
+1525,risk,subclass of,agenda item
+1526,probability impact matrix,subclass of,grid mapping
+1527,life cycle,facet of,software
+1528,objective jeopardy order,facet of,project management plan
+1529,critical success factor,instance of,process
+1530,risk,studied by,identifying risk
+1531,cost,has effect,functionality
+1532,risk management plan,has part,risk register
+1533,cost estimate,subclass of,estimate
+1534,commitment risk,subclass of,risk action
+1536,Without attribution,subclass of,attribution
+1537,risk response,subclass of,auditing
+1538,effect correlation,subclass of,feedback loop
+1539,special-purpose company,subclass of,joint venture
+1540,risk response process,facet of,input plan
+1541,risk source uncertainty,subclass of,uncertainty
+1542,cost money,facet of,pressure budget
+1543,document review,subclass of,informal approach
+1545,rb risk exposure,subclass of,risk breakdown structure
+1546,probability occurrence,studied by,risk analysis
+1547,project objective,facet of,project environment
+1548,high-risk element,subclass of,scope
+1549,cause event circumstance,has effect,risk
+1550,quantitative risk analysis,part of,risk management
+1551,uncertainty,facet of,probability model
+1552,trigger condition,facet of,occurrence risk
+1553,risk management plan,facet of,risk
+1554,random,subclass of,probability distribution
+1555,winter 2007 exposed 23 march 2008,point in time,23 march 2008
+1556,cost variability,subclass of,cost estimate
+1557,risk,facet of,objective
+1558,section risk management plan,use,project risk management
+1559,risk,facet of,requirement management plan
+1560,assumption log,part of,project document
+1561,risk exposure,facet of,risk owner
+1562,linear expected monetary value basis,opposite of,non-linear utility function
+1563,project personnel,practiced by,project manager
+1564,template,use,risk management
+1565,risk implication,facet of,risk
+1566,project objective achievement,different from,project budget schedule
+1567,project risk,facet of,probability distribution
+1568,known secondary risk,subclass of,secondary risk
+1569,risk cause effect,subclass of,risk statement
+1570,project element,part of,schedule
+1571,risk management process,use,risk management
+1572,group dynamics,facet of,groupthink
+1573,appropriate risk response,part of,risk register
+1574,enterprise environmental factor,facet of,risk management
+1575,uncertainty ambiguity,subclass of,document well inconsistency
+1576,risk assessment,part of,risk management
+1578,project,studied by,risk management
+1579,risk identification,facet of,stakeholder
+1580,monitor risks,facet of,project risk
+1581,project risk management,subclass of,managing risk
+1582,assumption constraint analysis,subclass of,constraint analysis
+1583,risk discussion,subclass of,recorded analysis
+1584,risk register,facet of,escalation
+1585,risk management,has part,risk management policy
+1586,schedule,has part,project element
+1587,post-project review,subclass of,lesson learned exercise
+1588,impact level,facet of,project
+1589,potential cause,subclass of,risk
+1590,risk,has part,chance
+1592,risk threshold,facet of,objective
+1593,resource requirement,subclass of,requirement
+1594,risk uneven,subclass of,common risk
+1595,descending strength correlation,facet of,tornado
+1596,risk,subclass of,identify
+1597,pmbok,use,project risk management
+1598,generic,subclass of,response
+1599,project objective,has effect,risk
+1600,probability impact matrix,facet of,probability impact
+1601,project objective,facet of,probability occurrence
+1603,qualitative risk analysis,use,risk interest management
+1604,project objective,facet of,project relation
+1605,passive,subclass of,acceptance
+1606,risk management,instance of,discipline
+1607,critical success factor,facet of,risk awareness
+1608,cost-benefit analysis,subclass of,decision making
+1609,cross-functional,subclass of,project team
+1610,risk response plan,facet of,manage risk
+1611,path negative positive,subclass of,outcome
+1612,objectivity,facet of,perception
+1613,creativity,instance of,technique
+1614,cost forecast,facet of,risk response
+1615,project manager,field of this occupation,project team
+1616,purpose practice standard project risk management,use,project management
+1617,template risk register,use,risk management planning
+1618,risk management plan,has part,risk strategy
+1619,project risk management,subclass of,application guideline
+1620,definition planning,part of,risk management
+1621,b,part of,pmp
+1622,pmp c,has part,byrne
+1623,new technology,subclass of,innovation
+1624,cost-benefit analysis,subclass of,analysis
+1625,project model,facet of,risk
+1626,impact level,subclass of,probability
+1627,source risk,subclass of,risk breakdown structure
+1628,civil engineer,practiced by,actuary
+1630,monitor control risk process,facet of,monitor control risk process
+1631,type risk,subclass of,risk
+1632,risk management,studies,project life cycle
+1633,probability risk,studied by,qualitative risk analysis
+1634,plan risk response process,subclass of,monitor control risk process
+1635,engineering,studies,context
+1636,shaun smith,spouse,linda e
+1637,opportunity threat,subclass of,situation strength weakness
+1638,risk identification analysis,part of,risk management planning
+1639,project objective,part of,project planning
+1640,document analysis,subclass of,analysis
+1641,monte carlo simulation,instance of,quantitative technique
+1642,risk driver,facet of,risk
+1643,contingency reserve,part of,cost schedule
+1644,technical solution,part of,project
+1645,identify risk,facet of,qualitative risk analysis
+1646,risk management plan,use,template use process
+1647,contingency reserve,subclass of,reserve
+1648,non-event risk,subclass of,project risk management
+1649,explicitly recognized addressed identify risk process,facet of,identify risk
+1650,secondary risk,subclass of,risk
+1651,risk attitude,subclass of,attitude
+1652,think creatively,subclass of,skill
+1653,affinity diagram,subclass of,diagram
+1654,risk category,facet of,risk breakdown structure
+1655,risk identification questionnaire,subclass of,checklist
+1656,responsibility risk,facet of,project risk management
+1657,project consideration,facet of,risk considered
+1658,root cause risk,subclass of,risk
+1659,generally consistent approach,use,project risk management
