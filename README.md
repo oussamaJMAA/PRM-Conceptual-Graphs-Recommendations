@@ -13,11 +13,7 @@ This step involves the application of Natural Language Processing (NLP) techniqu
 
 ### Conceptual Graph Building
 
-Automatically structure and represent the acquired project management knowledge into machine-readable formats, including:
-
-- **OWL (Web Ontology Language)**
-- **RDFS (Resource Description Framework Schema)**
-- **RDF (Resource Description Framework)**
+Automatically structure and represent the acquired project management knowledge into machine-readable formats
 
 This step involves machine learning and deep learning techniques to create ontological elements.
 
